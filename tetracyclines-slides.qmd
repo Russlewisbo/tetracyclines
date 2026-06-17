@@ -21,19 +21,16 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 ---
 
 ## Tetracyclines, Tetracycline Derivatives <br> and Chloramphenicol {background-color="#b20e10" background-video="tetracyclines-images/swab.mp4" background-video-loop="true" background-video-muted="true" background-opacity="0.4"}
-<br>
 
 <br>
 
-<br>
 
-<br>
 
-<br>
+
 
 <center>
 
-**Russell E. Lewis, pharm.D., FCCP** <br> Associate Professor of Infectious Diseases (MEDS-10/B) <br>
+**Russell E. Lewis, Pharm.D., FCCP** <br> Associate Professor of Infectious Diseases (MEDS-10/B) <br>
 
 <br> <br>
 
@@ -48,7 +45,6 @@ csl: diagnostic-microbiology-and-infectious-disease.csl
 <br>
 
 ## Learning Objectives
-<br>
 
 After this presentation, you will be able to:
 
@@ -67,10 +63,9 @@ These six objectives cover foundational knowledge through clinical decision-maki
 
 ------------------------------------------------------------------------
 
-# Historical Overview {background-color="#b20e10"}
+# Historical Overview {background-color="#27ae60"}
 
 ## Discovery & Development Timeline
-<br>
 
 **1948: Benjamin M. Duggar** discovers chlortetracycline
 
@@ -88,7 +83,6 @@ Duggar's discovery launched an entire antibiotic class. The 2018 approvals repre
 :::
 
 ## The Rise of Resistance & Classification
-<br>
 
 **Resistance emerged quickly:**
 
@@ -111,10 +105,9 @@ Longer half-life agents allow for less frequent dosing and better compliance.
 
 ------------------------------------------------------------------------
 
-# Structure & Mechanism of Action {background-color="#b20e10"}
+# Structure & Mechanism of Action {background-color="#8e44ad"}
 
 ## Core Structure
-<br>
 
 **All tetracyclines share:** Four-benzene ring structure (hydronaphthacene nucleus)
 
@@ -123,7 +116,6 @@ Longer half-life agents allow for less frequent dosing and better compliance.
 ![](images/tetracyclines.png){fig-align="center" width="1578"}
 
 ## **Cell Entry:**
-<br>
 
 ::: incremental
 -   **Gram-negative:** Mg²⁺-cation complex → OmpF/OmpC porins → accumulates in periplasm
@@ -135,7 +127,6 @@ The cation complex formation is essential for crossing gram-negative outer membr
 :::
 
 ## Ribosomal Binding & Protein Synthesis Inhibition {.smaller}
-<br>
 
 ::: callout-important
 ## Key Concept
@@ -170,10 +161,9 @@ Reversible binding = bacteriostatic. This explains why post-antibiotic effect is
 
 ------------------------------------------------------------------------
 
-# Pharmacokinetics {background-color="#b20e10"}
+# Pharmacokinetics {background-color="#e74c3c"}
 
 ## Absorption: Key Differences
-<br>
 
 | Drug         | Bioavailability | Food Effect | Time to Peak |
 |--------------|-----------------|-------------|--------------|
@@ -192,7 +182,6 @@ This is a major practical advantage of doxycycline - patients with nausea can ta
 :::
 
 ## The Critical Cation Interaction
-<br>
 
 ::: callout-warning
 ## Critical Drug Interaction
@@ -215,7 +204,6 @@ One of the most important interactions to communicate. Many patients don't reali
 :::
 
 ## Distribution & Elimination
-<br>
 
 **Half-life comparison:**
 
@@ -231,7 +219,6 @@ Higher lipophilicity = better tissue penetration. Minocycline's high lipophilici
 :::
 
 ## Tissue Penetration {.smaller}
-<br>
 
 **Doxycycline achieves excellent levels in:**
 
@@ -251,7 +238,6 @@ Tissue penetration drives clinical indications. Minocycline's CNS penetration ma
 :::
 
 ## Special Populations
-<br>
 
 **Renal impairment:**
 
@@ -276,10 +262,9 @@ This is a frequently tested point - doxycycline's unique elimination makes it sa
 
 ------------------------------------------------------------------------
 
-# Antimicrobial Spectrum {background-color="#b20e10"}
+# Antimicrobial Spectrum {background-color="#3498db"}
 
 ## Gram-Positive Coverage
-<br>
 
 **Generally susceptible:**
 
@@ -301,7 +286,6 @@ MRSA susceptibility to doxycycline makes it useful for community skin infections
 :::
 
 ## Gram-Negative Coverage{.smaller}
-<br>
 
 **Susceptible organisms:**
 
@@ -323,7 +307,6 @@ The gram-negative spectrum focuses on atypicals and specific pathogens. Not reli
 :::
 
 ## Atypical Pathogens
-<br>
 
 ::: callout-tip
 ## Clinical Pearl
@@ -347,7 +330,6 @@ Doxycycline is often the drug of choice for tick-borne illnesses due to excellen
 :::
 
 ## Anaerobes & Other Organisms
-<br>
 
 **Anaerobic coverage:**
 
@@ -368,10 +350,9 @@ Doxycycline's activity against T. pallidum makes it the alternative of choice fo
 
 ------------------------------------------------------------------------
 
-# Clinical Indications {background-color="#b20e10"}
+# Clinical Indications {background-color="#f39c12"}
 
 ## Respiratory Tract Infections
-<br>
 
 **Community-Acquired Pneumonia (CAP):**
 
@@ -395,7 +376,6 @@ With rising macrolide resistance in S. pneumoniae, doxycycline has become an inc
 :::
 
 ## Tick-Borne Diseases
-<br>
 
 **Doxycycline is first-line for:**
 
@@ -417,7 +397,6 @@ Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even 
 :::
 
 ## Sexually Transmitted Infections
-<br>
 
 | Infection | Doxycycline Regimen |
 |--------------------------|----------------------------------------------|
@@ -438,7 +417,6 @@ Doxy-PEP is a major recent development - single dose within 72 hours of exposure
 :::
 
 ## Skin & Soft Tissue Infections
-<br>
 
 **Community-acquired MRSA SSTI:**
 
@@ -458,7 +436,6 @@ Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflamm
 :::
 
 ## Infections Requiring Combination Therapy {.smaller}
-<br>
 
 **Brucellosis:**
 
@@ -479,7 +456,6 @@ For brucellosis, the combination prevents relapse. Q fever endocarditis requires
 :::
 
 ## Other Important Indications
-<br>
 
 **Malaria prophylaxis:**
 
@@ -504,10 +480,9 @@ Demeclocycline's use for SIADH is a classic example of repurposing a side effect
 
 ------------------------------------------------------------------------
 
-# Adverse Effects {background-color="#b20e10"}
+# Adverse Effects {background-color="#9b59b6"}
 
 ## Gastrointestinal Effects
-<br>
 
 **Most common adverse effects:**
 
@@ -533,7 +508,6 @@ Esophageal ulceration can be severe. The upright position and water are critical
 :::
 
 ## Photosensitivity
-<br>
 
 ::: callout-warning
 ## Clinical Warning
@@ -558,7 +532,6 @@ Photosensitivity is a phototoxic (not allergic) reaction. It can occur even thro
 :::
 
 ## Dental & Bone Effects
-<br>
 
 ::: callout-caution
 ## Contraindication
@@ -583,7 +556,6 @@ The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may hav
 :::
 
 ## CNS Effects (Especially Minocycline)
-<br>
 
 **Vestibular effects (minocycline):**
 
@@ -603,7 +575,6 @@ Minocycline's vestibular effects often limit its use. The combination with isotr
 :::
 
 ## Hepatotoxicity
-<br>
 
 **Tetracycline-specific:**
 
@@ -623,7 +594,6 @@ High-dose IV tetracycline is no longer used, but this historical toxicity is why
 :::
 
 ## Minocycline-Specific Effects
-<br>
 
 **Unique adverse effects:**
 
@@ -647,10 +617,9 @@ The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus
 
 ------------------------------------------------------------------------
 
-# Drug Interactions {background-color="#b20e10"}
+# Drug Interactions {background-color="#1abc9c"}
 
 ## Major Drug Interactions
-<br>
 
 | Interacting Drug        | Effect                  | Management          |
 |-------------------------|-------------------------|---------------------|
@@ -666,7 +635,6 @@ The warfarin interaction is clinically significant - always check INR when start
 :::
 
 ## Practical Management
-<br>
 
 ::: callout-tip
 ## Clinical Pearl
@@ -688,10 +656,9 @@ Complex medication schedules reduce compliance. Sometimes switching to azithromy
 
 ------------------------------------------------------------------------
 
-# Resistance Mechanisms {background-color="#b20e10"}
+# Resistance Mechanisms {background-color="#e67e22"}
 
 ## Three Major Mechanisms
-<br>
 
 **1. Efflux Pumps (most common):**
 
@@ -712,7 +679,6 @@ Efflux is the most common mechanism. Ribosomal protection is especially importan
 :::
 
 ## Resistance Mechanisms (continued)
-<br>
 
 **3. Enzymatic Inactivation:**
 
@@ -732,7 +698,6 @@ Tet(X) enzymes are concerning because they can inactivate even the newer glycylc
 :::
 
 ## How Newer Tetracyclines Overcome Resistance
-<br>
 
 | Agent        | Overcomes Efflux | Overcomes Ribosomal Protection |
 |--------------|------------------|--------------------------------|
@@ -754,10 +719,9 @@ The glycylcycline structure was specifically designed to evade common resistance
 
 ------------------------------------------------------------------------
 
-# Newer Tetracycline Derivatives {background-color="#b20e10"}
+# Newer Tetracycline Derivatives {background-color="#16a085"}
 
 ## Tigecycline (Glycylcycline){.smaller}
-<br>
 
 **Key features:**
 
@@ -783,7 +747,6 @@ The mortality signal led to FDA warnings. Tigecycline should not be used for VAP
 :::
 
 ## Tigecycline: Clinical Considerations{.smaller}
-<br>
 
 **Advantages:**
 
@@ -809,7 +772,6 @@ The large volume of distribution means excellent tissue levels but inadequate se
 :::
 
 ## Eravacycline (Fluorocycline){.smaller}
-<br>
 
 **Key features:**
 
@@ -832,7 +794,6 @@ Eravacycline was developed to improve on tigecycline's limitations. It's current
 :::
 
 ## Omadacycline (Aminomethylcycline){.smaller}
-<br>
 
 **Key features:**
 
@@ -856,7 +817,6 @@ The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 30
 :::
 
 ## Omadacycline: Clinical Use
-<br>
 
 **Dosing:**
 
@@ -877,7 +837,6 @@ The ability to complete therapy orally makes omadacycline practical for outpatie
 :::
 
 ## Sarecycline (Narrow-Spectrum)
-<br>
 
 **Unique positioning:**
 
@@ -896,7 +855,6 @@ Sarecycline represents a deliberate narrow-spectrum approach to minimize collate
 :::
 
 ## Comparing Newer Tetracyclines
-<br>
 
 | Feature           | Tigecycline       | Eravacycline        | Omadacycline |
 |-------------------|-------------------|---------------------|--------------|
@@ -913,10 +871,9 @@ Selection depends on indication, need for oral therapy, and patient-specific fac
 
 ------------------------------------------------------------------------
 
-# Chloramphenicol {background-color="#b20e10"}
+# Chloramphenicol {background-color="#c0392b"}
 
 ## Historical Context & Mechanism
-<br>
 
 **History:**
 
@@ -936,7 +893,6 @@ Chloramphenicol's toxicity limited its use in developed countries, but it remain
 :::
 
 ## Chloramphenicol: Spectrum & Uses
-<br>
 
 **Broad spectrum coverage:**
 
@@ -957,7 +913,6 @@ Oral chloramphenicol is still available for travelers to areas with limited alte
 :::
 
 ## Chloramphenicol: Toxicity{.smaller}
-<br>
 
 ::: callout-caution
 ## Critical Toxicity
@@ -985,10 +940,9 @@ The risk of aplastic anemia, though rare, is the main reason chloramphenicol fel
 
 ------------------------------------------------------------------------
 
-# Practical Prescribing {background-color="#b20e10"}
+# Practical Prescribing {background-color="#2980b9"}
 
 ## Tetracycline Selection Algorithm {.smaller}
-<br>
 
 ```         
 Is the patient pregnant or <8 years old?
@@ -1014,7 +968,6 @@ This simple algorithm covers most clinical scenarios. Doxycycline is the most ve
 :::
 
 ## Available Formulations
-<br>
 
 | Drug         | Formulations               | Standard Dose                  |
 |--------------|----------------------------|--------------------------------|
@@ -1030,7 +983,6 @@ Omadacycline's dual formulation makes it unique among the newer agents.
 :::
 
 ## Key Counseling Points
-<br>
 
 **For all tetracyclines:**
 
@@ -1051,10 +1003,9 @@ Effective counseling improves adherence and reduces adverse effects.
 
 ------------------------------------------------------------------------
 
-# Summary {background-color="#b20e10"}
+# Summary {background-color="#2c3e50"}
 
 ## Key Takeaways (Part 1)
-<br>
 
 ::: incremental
 1.  **Mechanism:** Tetracyclines bind 30S ribosome, block protein synthesis (bacteriostatic)- activity is AUC/MIC driven, N&V with IV formulations is related to peak serum levels
@@ -1068,7 +1019,6 @@ These are the most critical points for clinical practice.
 :::
 
 ## Key Takeaways (Part 2)
-<br>
 
 ::: incremental
 5.  **Drug interactions are critical:** Cations reduce absorption 50-90%, warfarin effect increased
@@ -1082,7 +1032,6 @@ The newer agents are valuable but have specific niches and limitations.
 :::
 
 ## Clinical Decision Making
-<br>
 
 ::: callout-important
 ## Bottom Line
@@ -1096,10 +1045,9 @@ End with this practical summary for clinical application.
 
 ------------------------------------------------------------------------
 
-# Questions? {background-color="#b20e10"}
+# Questions? {background-color="#2c3e50"}
 
 ## Further Reading & Resources {.smaller}
-<br>
 
 **Key References:**
 
@@ -1118,10 +1066,9 @@ End with this practical summary for clinical application.
 
 ------------------------------------------------------------------------
 
-# Appendix: Reference Tables {background-color="#b20e10"}
+# Appendix: Reference Tables {background-color="#7f8c8d"}
 
 ## Spectrum of Activity Summary
-<br>
 
 | Organism         | TET | DOX | MIN | TIG | ERA | OMA |
 |------------------|-----|-----|-----|-----|-----|-----|
@@ -1137,7 +1084,6 @@ End with this practical summary for clinical application.
 S = susceptible, V = variable, R = resistant
 
 ## MIC Reference Values
-<br>
 
 | Organism               | Doxycycline | Tigecycline |
 |------------------------|-------------|-------------|
@@ -1150,7 +1096,6 @@ S = susceptible, V = variable, R = resistant
 *Values in μg/mL; breakpoints per CLSI*
 
 ## Dosing Quick Reference
-<br>
 
 | Indication | Agent | Dose | Duration |
 |--------------------|-----------------|-----------------|-----------------|
