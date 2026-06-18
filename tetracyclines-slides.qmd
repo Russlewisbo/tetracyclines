@@ -55,11 +55,11 @@ After this presentation, you will be able to:
 5.  Apply knowledge of newer derivatives (tigecycline, eravacycline, omadacycline)
 6.  Select the appropriate tetracycline for specific clinical scenarios
 
-------------------------------------------------------------------------
-
 # Historical Overview {background-color="#b20e10"}
 
 ## Discovery & Development Timeline
+
+<br>
 
 ::::: columns
 ::: {.column width="30%"}
@@ -83,18 +83,18 @@ After this presentation, you will be able to:
 | 3rd Gen | 2005-2018 | Tigecycline, Eravacycline, Omadacycline | Resistance-active |
 
 ::: notes
-Duggar's discovery launched an entire antibiotic class. The 2018 approvals represented a renaissance driven by resistance concerns.
+Duggar's discovery launched an entire antibiotic class. The 2018 approvals represented a renaissance driven by resistance concerns [@Duggar1948].
 :::
 
 ## But was he the first?- Egyptians drank tetracycline beer!
 
-![](tetracyclines-images/egyptians.png){fig-align="center" width="650"}
+![](tetracyclines-images/egyptians.png){fig-align="center" width="600"}
 
 ::: aside
 [@nelson2010]
 :::
 
-## The Rise of resistance & classification
+## The rise of resistance & classification
 
 <br>
 
@@ -114,10 +114,8 @@ Duggar's discovery launched an entire antibiotic class. The 2018 approvals repre
 | Very long-acting | 37-67 hours | Tigecycline                   |
 
 ::: aside
-Longer half-life agents allow for less frequent dosing and better compliance.
+Longer half-life agents allow for less frequent dosing and better compliance [@Roberts2005; @Thaker2010].
 :::
-
-
 
 # Structure & Mechanism of Action {background-color="#b20e10"}
 
@@ -125,11 +123,11 @@ Longer half-life agents allow for less frequent dosing and better compliance.
 
 <br>
 
+![](tetracyclines-images/tetracyclines.png){fig-align="center" width="800"}
+
 **All tetracyclines share:** Four-benzene ring structure (hydronaphthacene nucleus)
 
 - Substitutions at C-5, C-6, C-7 determine properties
-
-![](images/tetracyclines.png){fig-align="center" width="1578"}
 
 ## **Cell Entry:**
 
@@ -138,75 +136,48 @@ Longer half-life agents allow for less frequent dosing and better compliance.
 - **Gram-negative:** Mg²⁺-cation complex → OmpF/OmpC porins → accumulates in periplasm
 - **Gram-positive:** Active transport through cytoplasmic membrane (ΔpH dependent)
 
-::: notes
-The cation complex formation is essential for crossing gram-negative outer membranes - also explains why divalent cations interfere with absorption.
+<br> <br>
+
+::: aside
+The cation complex formation is essential for crossing gram-negative outer membranes - also explains why divalent cations interfere with absorption. [@Schnappinger1996]
 :::
 
-## Ribosomal Binding & Protein Synthesis Inhibition {.smaller}
+## Ribosomal binding & protein synthesis inhibition
 
 <br>
 
+![](tetracyclines-images/Tetracycline_MOA.png){fig-align="center" width="800"}
+
 ::: callout-important
-## Key Concept
-
-Tetracyclines **reversibly** bind to the **30S ribosomal subunit** → **bacteriostatic**...*although clinical importance of bacteriostatic vs. cidal is debated*. Free drug AUC/AUC is the PK/PD driver of activity- Killing (or growth suppression) depends on overall exposure, not peak concentration
+Tetracyclines **reversibly** bind to the **30S ribosomal subunit** → **bacteriostatic**...*although clinical importance of bacteriostatic vs. cidal is debated*. Free drug AUC/AUC is the PK/PD driver of activity- Killing (or growth suppression) depends on overall exposure, not peak concentration [@Chopra2001].
 :::
-
-::::: columns
-::: {.column width="50%"}
-![](images/ribomse_target.png){fig-align="left"}
-:::
-
-::: {.column width="50%"}
-**What happens at the ribosome**
-
-1.  Tetracycline occupies the A (acceptor) site
-2.  Blocks aminoacyl-tRNA binding
-3.  Prevents peptide chain elongation → protein synthesis halts
-
-**Additional mechanisms (doxycycline):**
-
-- Binds 70S mitochondrial ribosomes → antiprotozoal activity
-- Targets apicoplast ribosomes in *Plasmodium* → slow antimalarial action
-:::
-:::::
-
-1.  
-
-::: notes
-Reversible binding = bacteriostatic. This explains why post-antibiotic effect is important and why duration matters.
-:::
-
-------------------------------------------------------------------------
 
 # Pharmacokinetics {background-color="#b20e10"}
 
-## Absorption: Key Differences
+## Absorption: key differences
 
 <br>
 
-| Drug         | Bioavailability | Food Effect | Time to Peak |
+| Drug         | Bioavailability | Food effect | Time to peak |
 |--------------|-----------------|-------------|--------------|
 | Tetracycline | 77-88%          | ↓50%        | 2-4 hours    |
 | Doxycycline  | \~100%          | ↓\<20%      | 2-3 hours    |
 | Minocycline  | \~100%          | ↓\<20%      | 2 hours      |
 
-::: callout-tip
-## Clinical Pearl
+<br> <br> ::: callout-tip \## Clinical Pearl
 
-Doxycycline can be taken with food to reduce GI upset without significantly affecting absorption!
+Doxycycline can be taken with food to reduce GI upset without significantly affecting absorption! :::
+
+::: aside
+This is a major practical advantage of doxycycline - patients with nausea can take it with meals [@Cunha2000].
 :::
 
-::: notes
-This is a major practical advantage of doxycycline - patients with nausea can take it with meals.
-:::
-
-## The Critical Cation Interaction
+## The critical cation interaction
 
 <br>
 
 ::: callout-warning
-## Critical Drug Interaction
+## Critical drug interaction
 
 Divalent and trivalent cations reduce absorption by **50-90%**
 :::
@@ -221,15 +192,15 @@ Divalent and trivalent cations reduce absorption by **50-90%**
 - Separate from antacids by 2-3 hours
 - Dairy products (milk, yogurt, cheese) also chelate
 
-::: notes
-One of the most important interactions to communicate. Many patients don't realize their daily vitamin interferes.
+::: aside
+One of the most important interactions to communicate. Many patients don't realize their daily vitamin interferes [@Chopra2001].
 :::
 
-## Distribution & Elimination
+## Distribution & elimination
 
 <br>
 
-**Half-life comparison:**
+<center>**Half-life comparison:**</center>
 
 | Drug         | Half-life   | Protein Binding | Lipophilicity |
 |--------------|-------------|-----------------|---------------|
@@ -238,11 +209,13 @@ One of the most important interactions to communicate. Many patients don't reali
 | Minocycline  | 16-21 hours | 70-80%          | 10× baseline  |
 | Tigecycline  | 37-67 hours | 71-89%          | Very high     |
 
-::: notes
-Higher lipophilicity = better tissue penetration. Minocycline's high lipophilicity explains its excellent CSF penetration.
+<br> <br>
+
+::: aside
+Higher lipophilicity = better tissue penetration. Minocycline's high lipophilicity explains its excellent CSF penetration [@Moffa2024].
 :::
 
-## Tissue Penetration {.smaller}
+## Tissue penetration
 
 <br>
 
@@ -259,18 +232,18 @@ Higher lipophilicity = better tissue penetration. Minocycline's high lipophilici
 - Saliva and tears
 - Sebum (explaining efficacy in acne)
 
-::: notes
-Tissue penetration drives clinical indications. Minocycline's CNS penetration makes it useful for certain infections. Tetracyclines have high volume of distribution making them poor choices for bloodstream infection
+::: aside
+Tissue penetration drives clinical indications. Minocycline's CNS penetration makes it useful for certain infections. **Tetracyclines have high volume of distribution making them poor choices for bloodstream infection** [@Moffa2024].
 :::
 
-## Special Populations
+## Special populations
 
 <br>
 
 **Renal impairment:**
 
 - Tetracycline: **Avoid** (accumulates, worsens azotemia)
-- Doxycycline: **No adjustment needed** (GI elimination)
+- Doxycycline: **No adjustment needed** (Biliary secretion → fecal excretion)
 - Minocycline: **No adjustment needed**
 
 **Hepatic impairment:**
@@ -284,15 +257,15 @@ Tissue penetration drives clinical indications. Minocycline's CNS penetration ma
 Doxycycline is the tetracycline of choice in renal failure!
 :::
 
-::: notes
-This is a frequently tested point - doxycycline's unique elimination makes it safe in renal impairment.
-:::
+<br> <br>
 
-------------------------------------------------------------------------
+::: notes
+This is a frequently tested point - doxycycline's unique elimination makes it safe in renal impairment [@Moffa2024].
+:::
 
 # Antimicrobial Spectrum {background-color="#b20e10"}
 
-## Gram-Positive Coverage
+## Gram-positive coverage
 
 <br>
 
@@ -311,11 +284,13 @@ This is a frequently tested point - doxycycline's unique elimination makes it sa
 Newer tetracyclines (tigecycline, eravacycline, omadacycline) have enhanced gram-positive activity including VRE
 :::
 
-::: notes
-MRSA susceptibility to doxycycline makes it useful for community skin infections. However, resistance is increasing.
+<br> <br>
+
+::: aside
+MRSA susceptibility to doxycycline makes it useful for community skin infections. However, resistance is increasing [@SENTRY1999].
 :::
 
-## Gram-Negative Coverage {.smaller}
+## Gram-negative coverage
 
 <br>
 
@@ -334,11 +309,13 @@ MRSA susceptibility to doxycycline makes it useful for community skin infections
 - *Proteus* species - often resistant
 - Enterobacterales - variable, increasing resistance
 
-::: notes
-The gram-negative spectrum focuses on atypicals and specific pathogens. Not reliable for nosocomial gram-negatives.
+<br>
+
+::: aside
+The gram-negative spectrum focuses on atypicals and specific pathogens. Not reliable for nosocomial gram-negatives [@Chopra2001].
 :::
 
-## Atypical Pathogens
+## Atypical pathogens
 
 <br>
 
@@ -359,11 +336,13 @@ Tetracyclines are first-line for many atypical pathogens!
 | *Coxiella burnetii*     | Q fever                              |
 | *Ehrlichia/Anaplasma*   | Ehrlichiosis/Anaplasmosis            |
 
-::: notes
-Doxycycline is often the drug of choice for tick-borne illnesses due to excellent activity against Rickettsia and related organisms.
+<br> <br>
+
+::: aside
+Doxycycline is often the drug of choice for tick-borne illnesses due to excellent activity against Rickettsia and related organisms [@Moffa2024].
 :::
 
-## Anaerobes & Other Organisms
+## Anaerobes & other organisms
 
 <br>
 
@@ -380,15 +359,13 @@ Doxycycline is often the drug of choice for tick-borne illnesses due to excellen
 - *Bacillus anthracis* (anthrax)
 - *Actinomyces*, *Nocardia*
 
-::: notes
-Doxycycline's activity against T. pallidum makes it the alternative of choice for penicillin-allergic patients with syphilis.
+::: aside
+Doxycycline's activity against T. pallidum makes it the alternative of choice for penicillin-allergic patients with syphilis [@Moffa2024].
 :::
 
-------------------------------------------------------------------------
+# Clinical indications {background-color="#b20e10"}
 
-# Clinical Indications {background-color="#b20e10"}
-
-## Respiratory Tract Infections
+## Respiratory tract infections
 
 <br>
 
@@ -409,11 +386,11 @@ Doxycycline is recommended as an alternative to macrolides for outpatient CAP in
 - Acute exacerbations of COPD
 - Psittacosis (*C. psittaci*)
 
-::: notes
-With rising macrolide resistance in S. pneumoniae, doxycycline has become an increasingly important alternative.
+::: aside
+With rising macrolide resistance in S. pneumoniae, doxycycline has become an increasingly important alternative [@MetlayCAP2019].
 :::
 
-## Tick-Borne Diseases
+## Tick-borne diseases
 
 <br>
 
@@ -432,16 +409,16 @@ With rising macrolide resistance in S. pneumoniae, doxycycline has become an inc
 For RMSF: Start doxycycline empirically - don't wait for serologic confirmation! Delay increases mortality.
 :::
 
-::: notes
-Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even in children for this indication.
+::: aside
+Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even in children for this indication [@WormsleyLyme2021].
 :::
 
-## Sexually Transmitted Infections
+## Sexually transmitted infections
 
 <br>
 
 | Infection | Doxycycline Regimen |
-|--------------------------|----------------------------------------------|
+|---------------------------|---------------------------------------------|
 | Chlamydia | 100 mg BID × 7 days |
 | Syphilis (penicillin allergy) | 100 mg BID × 14 days (early) or 28 days (late) |
 | PID (with ceftriaxone + metronidazole) | 100 mg BID × 14 days |
@@ -454,8 +431,8 @@ Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even 
 **Doxy-PEP:** Post-exposure prophylaxis (200 mg within 72h) reduces STI incidence by 66% in high-risk populations
 :::
 
-::: notes
-Doxy-PEP is a major recent development - single dose within 72 hours of exposure significantly reduces gonorrhea, chlamydia, and syphilis.
+::: aside
+Doxy-PEP is a major recent development - single dose within 72 hours of exposure significantly reduces gonorrhea, chlamydia, and syphilis[@CDC_STI2021; @DoxyPEP2022].
 :::
 
 ## Skin & Soft Tissue Infections
@@ -475,11 +452,11 @@ Doxy-PEP is a major recent development - single dose within 72 hours of exposure
 | Minocycline | 50-100 mg BID   | Risk of pigmentation, lupus-like  |
 | Sarecycline | 60-150 mg daily | Narrow spectrum, fewer GI effects |
 
-::: notes
-Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflammatory mechanisms without promoting resistance.
+::: aside
+Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflammatory mechanisms without promoting resistance [@LamotheMRSA2009; @Garner2015].
 :::
 
-## Infections Requiring Combination Therapy {.smaller}
+## Infections requiring combination therapy {.smaller}
 
 <br>
 
@@ -497,8 +474,8 @@ Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflamm
 
 - Doxycycline 100 mg BID × 60 days (with vaccine if available)
 
-::: notes
-For brucellosis, the combination prevents relapse. Q fever endocarditis requires prolonged therapy.
+::: aside
+For brucellosis, the combination prevents relapse. Q fever endocarditis requires prolonged therapy [@LamotheMRSA2009; @Garner2015].
 :::
 
 ## Other Important Indications
@@ -521,6 +498,10 @@ For brucellosis, the combination prevents relapse. Q fever endocarditis requires
 **SIADH:**
 
 - Demeclocycline 600-1200 mg/day (induces nephrogenic DI)
+
+::: aside
+[@Dahl2004; @MalariaCDC2023; @Forrest1974]
+:::
 
 ::: notes
 Demeclocycline's use for SIADH is a classic example of repurposing a side effect for therapeutic benefit.
@@ -553,6 +534,10 @@ Demeclocycline's use for SIADH is a classic example of repurposing a side effect
 - Use enteric-coated formulations
 - Consider dose reduction if tolerating lower doses
 
+::: aside
+[@SmithPhotosensitivity1990]
+:::
+
 ::: notes
 Esophageal ulceration can be severe. The upright position and water are critical counseling points.
 :::
@@ -578,6 +563,10 @@ Photosensitivity is dose-related and occurs in up to 20% of patients!
 - Use SPF 30+ sunscreen
 - Wear protective clothing
 - Reaction occurs within minutes to hours of UV exposure
+
+::: aside
+[@SmithPhotosensitivity1990]
+:::
 
 ::: notes
 Photosensitivity is a phototoxic (not allergic) reaction. It can occur even through window glass with UVA.
@@ -605,6 +594,10 @@ Avoid tetracyclines in pregnancy and children under 8 years (except for life-thr
 - Reversible decrease in bone growth rate in fetus/young children
 - Does not affect already-formed adult bone
 
+::: aside
+[@Moffa2024]
+:::
+
 ::: notes
 The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may have lower staining risk than older tetracyclines.
 :::
@@ -626,6 +619,10 @@ The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may hav
   - Headache, visual changes, papilledema
   - Risk increased with concurrent vitamin A, retinoids
 
+::: aside
+[@Garner2015; @Moffa2024]
+:::
+
 ::: notes
 Minocycline's vestibular effects often limit its use. The combination with isotretinoin is particularly concerning for intracranial hypertension.
 :::
@@ -646,6 +643,10 @@ Minocycline's vestibular effects often limit its use. The combination with isotr
 - Elevated LFTs in 5% of patients
 - Cases of hepatic failure reported
 - Contributes to FDA warnings
+
+::: aside
+[@FDAWarningTige2010; @Moffa2024]
+:::
 
 ::: notes
 High-dose IV tetracycline is no longer used, but this historical toxicity is why the class carries pregnancy warnings.
@@ -671,6 +672,10 @@ High-dose IV tetracycline is no longer used, but this historical toxicity is why
 Most minocycline-specific effects are associated with prolonged use (acne treatment)
 :::
 
+::: aside
+[@Garner2015]
+:::
+
 ::: notes
 The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus-like symptoms in long-term users.
 :::
@@ -691,6 +696,10 @@ The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus
 | Isotretinoin            | ↑ Intracranial pressure | Avoid combination   |
 | Methotrexate            | ↑ MTX levels            | Monitor toxicity    |
 | Digoxin                 | ↑ Digoxin levels (10%)  | Monitor levels      |
+
+::: aside
+[@Moffa2024]
+:::
 
 ::: notes
 The warfarin interaction is clinically significant - always check INR when starting/stopping tetracyclines in anticoagulated patients.
@@ -713,6 +722,10 @@ When multiple interactions exist, consider alternative antibiotics rather than c
 3.  Women on OCs should use backup contraception
 4.  Report signs of bleeding if on warfarin
 5.  Never combine with isotretinoin
+
+::: aside
+[@Moffa2024]
+:::
 
 ::: notes
 Complex medication schedules reduce compliance. Sometimes switching to azithromycin or a fluoroquinolone is more practical.
@@ -740,6 +753,10 @@ Complex medication schedules reduce compliance. Sometimes switching to azithromy
 - Release tetracycline from 30S binding site
 - Dislodge drug without damaging ribosome
 
+::: aside
+[@Chopra2001; @Roberts2005]
+:::
+
 ::: notes
 Efflux is the most common mechanism. Ribosomal protection is especially important in gram-positive organisms.
 :::
@@ -760,6 +777,10 @@ Efflux is the most common mechanism. Ribosomal protection is especially importan
 - 33+ resistance genes identified
 - Often carried on mobile genetic elements
 - Multiple mechanisms may coexist
+
+::: aside
+[@Thaker2010]
+:::
 
 ::: notes
 Tet(X) enzymes are concerning because they can inactivate even the newer glycylcyclines. Surveillance is ongoing.
@@ -782,6 +803,10 @@ Tet(X) enzymes are concerning because they can inactivate even the newer glycylc
 - C-9 glycylamido group (tigecycline)
 - Enhanced ribosomal binding affinity
 - Steric hindrance prevents efflux pump recognition
+
+::: aside
+[@Bergeron2016]
+:::
 
 ::: notes
 The glycylcycline structure was specifically designed to evade common resistance mechanisms. However, Tet(X) can still inactivate some of these.
@@ -814,6 +839,10 @@ The glycylcycline structure was specifically designed to evade common resistance
 Increased mortality compared to other antibiotics in meta-analysis. Reserve for situations where alternatives are not suitable.
 :::
 
+::: aside
+[@Ellis-GrosseTige2005; @FDABoxWarningTige2013]
+:::
+
 ::: notes
 The mortality signal led to FDA warnings. Tigecycline should not be used for VAP or bacteremia due to low serum levels. Mortality difference was not seen with the higher dose
 :::
@@ -841,6 +870,10 @@ The mortality signal led to FDA warnings. Tigecycline should not be used for VAP
 - MDR skin infections when oral options inadequate
 - *Not* for VAP, bloodstream infections, or diabetic foot infections
 
+::: aside
+[@BabinchakTige2005; @FDAWarningTige2010]
+:::
+
 ::: notes
 The large volume of distribution means excellent tissue levels but inadequate serum concentrations for bacteremia.
 :::
@@ -864,6 +897,10 @@ The large volume of distribution means excellent tissue levels but inadequate se
 - More potent against Enterobacterales
 - Similar spectrum but better MICs
 - Better tolerability (less nausea)
+
+::: aside
+[@Solomkin2014; @MolloyErava2018]
+:::
 
 ::: notes
 Eravacycline was developed to improve on tigecycline's limitations. It's currently limited to cIAI.
@@ -890,6 +927,10 @@ Eravacycline was developed to improve on tigecycline's limitations. It's current
 Omadacycline is the only newer tetracycline with oral availability - allows IV-to-oral switch!
 :::
 
+::: aside
+[@OKeefeCABP2019]
+:::
+
 ::: notes
 The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 300 mg daily.
 :::
@@ -912,6 +953,10 @@ The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 30
 - Better tolerability than tigecycline
 - No food effect on absorption (take on empty stomach)
 
+::: aside
+[@Stets2019]
+:::
+
 ::: notes
 The ability to complete therapy orally makes omadacycline practical for outpatient treatment or early discharge.
 :::
@@ -932,6 +977,10 @@ The ability to complete therapy orally makes omadacycline practical for outpatie
 - Lower activity against typical respiratory pathogens
 - Designed to target *Cutibacterium acnes*
 
+::: aside
+[@Moffa2024]
+:::
+
 ::: notes
 Sarecycline represents a deliberate narrow-spectrum approach to minimize collateral damage and resistance selection.
 :::
@@ -948,6 +997,10 @@ Sarecycline represents a deliberate narrow-spectrum approach to minimize collate
 | Black box warning | Yes (mortality)   | No                  | No           |
 | Dosing frequency  | q12h              | q12h                | Daily        |
 | Main limitation   | Low serum levels  | Limited indications | Cost         |
+
+::: aside
+[@Moffa2024]
+:::
 
 ::: notes
 Selection depends on indication, need for oral therapy, and patient-specific factors.
@@ -974,6 +1027,10 @@ Selection depends on indication, need for oral therapy, and patient-specific fac
 - Prevents peptide bond formation
 - **Bacteriostatic** (bactericidal against some organisms)
 
+::: aside
+[@Mandell2024]
+:::
+
 ::: notes
 Chloramphenicol's toxicity limited its use in developed countries, but it remains important in resource-limited settings.
 :::
@@ -995,6 +1052,10 @@ Chloramphenicol's toxicity limited its use in developed countries, but it remain
 - Bacterial meningitis (resource-limited settings)
 - Ophthalmic infections (topical)
 - Alternative for serious infections in beta-lactam allergy
+
+::: aside
+[@Mandell2024]
+:::
 
 ::: notes
 Oral chloramphenicol is still available for travelers to areas with limited alternatives.
@@ -1023,6 +1084,10 @@ Oral chloramphenicol is still available for travelers to areas with limited alte
   - Due to immature glucuronidation
   - Abdominal distension, cyanosis, shock
 - Optic neuritis (prolonged use)
+
+::: aside
+[@Mandell2024]
+:::
 
 ::: notes
 The risk of aplastic anemia, though rare, is the main reason chloramphenicol fell from widespread use in developed countries.
@@ -1217,3 +1282,4 @@ S = susceptible, V = variable, R = resistant
 \*After 100 mg loading dose; \*\*After 300 mg × 2 loading
 
 ------------------------------------------------------------------------
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
