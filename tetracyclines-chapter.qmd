@@ -1,9 +1,7 @@
 ---
 title: "Tetracyclines, Tetracycline Derivatives, and Chloramphenicol"
 author:
-  - name: "Matthew Moffa"
-  - name: "Itzhak Brook"
-date: "2024"
+  - name: "Russell Lewis"
 format:
   html:
     toc: true
@@ -12,9 +10,13 @@ format:
     number-sections: true
     code-fold: true
     theme: cosmo
-bibliography: references.bib
+bibliography: tetracyclines-references.bib
 csl: nlm-citation-name.csl
 ---
+
+[HTML lecture slides]() <br>
+[Link to recorded lecture]() <br>
+
 
 # Short View Summary {#sec-summary}
 
@@ -120,9 +122,15 @@ Chloramphenicol has no current indications for use and has been replaced by safe
 
 ## Historical Overview and Classification {#sec-history}
 
+![Benjamin M. Duggar (1872–1956), discoverer of chlortetracycline.](tetracyclines-images/Dugger.png){#fig-duggar fig-align="center" width="200"}
+
 Tetracyclines have been an important class of broad-spectrum antibiotics since the discovery of chlortetracycline in 1948 by mycologist Benjamin M. Duggar [@Duggar1948]. They are bacteriostatic with a wide range of activity, including gram-positive bacteria, gram-negative bacteria, intracellular organisms, and protozoan parasites.
 
 Duggar derived chlortetracycline from *Streptomyces aureofaciens*, a golden-yellow bacterium found in soil. In 1950, oxytetracycline was isolated from *Streptomyces rimosus*. Tetracycline was later prepared by catalytic dehalogenation of chlortetracycline in 1953 at Lederle Laboratories and was independently derived from oxytetracycline at Pfizer Laboratories during that same period [@Chopra2001]. Doxycycline, a semisynthetic derivative of oxytetracycline, became available in 1967. Minocycline, also derived semisynthetically, was introduced in 1972.
+
+Interestingly, tetracycline exposure may predate modern discovery. Chemical analyses of skeletal remains from ancient Sudanese Nubia (350–550 CE) have revealed tetracycline deposition in bone, likely from consumption of beer brewed with tetracycline-producing *Streptomyces* contaminating stored grain [@nelson2010].
+
+![Evidence of tetracycline in ancient Nubian beer: fluorescence microscopy of bone cross-sections revealing tetracycline deposition.](tetracyclines-images/egyptians.png){#fig-egyptians fig-align="center" width="600"}
 
 Shortly after discovery, widespread resistance emerged, largely due to extensive clinical and nonclinical uses, including as growth promoters in animal feeds [@Roberts2005]. This has selected for numerous resistant determinants collectively termed the *tetracycline resistome* [@Thaker2010].
 
@@ -156,9 +164,11 @@ Demeclocycline is rarely used for infections. Its main side effect of nephrogeni
 
 Tetracyclines share a four-benzene ring core structure with a hydronaphthacene nucleus. Variations in gastrointestinal absorption, affinity for multivalent cations, protein binding, and antimicrobial activity are achieved through substitutions at carbons 5, 6, and 7.
 
-<!-- IMAGE NEEDED: Chemical structures of tetracycline antibiotics showing the four-ring structure and substitution positions -->
+![Core chemical structures of the tetracycline class, showing the four-ring hydronaphthacene nucleus and key substitution positions at C-5, C-6, and C-7.](tetracyclines-images/tetracyclines.png){#fig-structure fig-align="center" width="800"}
 
 ### Mechanism of Action
+
+![Mechanism of action of tetracyclines: reversible binding to the 30S ribosomal subunit blocks aminoacyl-tRNA from entering the acceptor (A) site.](tetracyclines-images/Tetracycline_MOA.png){#fig-moa fig-align="center" width="800"}
 
 Tetracyclines inhibit bacterial protein synthesis by:
 
@@ -167,7 +177,7 @@ Tetracyclines inhibit bacterial protein synthesis by:
 3. **Preventing** peptide chain elongation
 4. **Inhibiting** protein synthesis
 
-The reversible binding explains their bacteriostatic properties.
+The reversible binding explains their bacteriostatic properties. The PK/PD driver of tetracycline activity is the free drug AUC/MIC ratio — killing (or growth suppression) depends on overall drug exposure rather than peak concentration [@Chopra2001].
 
 ### Cell Penetration
 
@@ -246,8 +256,17 @@ Doxycycline achieves therapeutic concentrations in:
 - Bile (10-25× serum levels)
 - Thoracic duct lymph and peritoneal fluid (~75% of serum)
 - Prostate (up to 60% of serum)
+- Bronchial secretions, pleural fluid, sinus, and middle ear secretions
+- Urine concentrations up to 10× serum
 - CSF: 15-26% penetration (adequate for neuroborreliosis and neurosyphilis)
 - Breast milk (up to 40% of plasma; less bound to calcium than other tetracyclines)
+
+Minocycline uniquely penetrates saliva, tears, and sebum (explaining its efficacy in acne), and achieves higher CSF levels (11–57% of serum) than other tetracyclines due to its superior lipophilicity [@Moffa2024].
+
+::: {.callout-important}
+## Volume of Distribution
+Tetracyclines have high volumes of distribution, resulting in excellent tissue levels but relatively low serum concentrations. This makes them poor choices for primary treatment of bloodstream infections.
+:::
 
 ## Drug Elimination
 
@@ -382,11 +401,23 @@ Doxycycline appears to protect against CDI when given with ceftriaxone (27% lowe
 
 ## Genitourinary Tract Infections
 
+Doxycycline plays a central role in the treatment of multiple sexually transmitted infections (@tbl-sti):
+
+| Infection | Doxycycline Regimen |
+|-----------|---------------------|
+| Chlamydia | 100 mg BID × 7 days |
+| Syphilis (penicillin allergy) | 100 mg BID × 14 days (early) or 28 days (late) |
+| PID (with ceftriaxone + metronidazole) | 100 mg BID × 14 days |
+| Epididymitis | 100 mg BID × 10 days |
+| Lymphogranuloma venereum (LGV) | 100 mg BID × 21 days |
+
+: Doxycycline Regimens for Sexually Transmitted Infections {#tbl-sti}
+
 ### Chlamydia trachomatis
 Per 2021 CDC STI guidelines [@CDC_STI2021]: Doxycycline 100 mg orally twice daily for 7 days is **first-line treatment**.
 
 - Cure rate: 98% (vs 97% for azithromycin)
-- Superior to azithromycin for anorectal C. trachomatis
+- Superior to azithromycin for anorectal *C. trachomatis*
 
 ### Pelvic Inflammatory Disease
 Doxycycline 100 mg every 12 hours is a component of both parenteral and oral PID regimens (with ceftriaxone and metronidazole).
@@ -430,16 +461,27 @@ For patients with significant penicillin allergy:
 
 ## Other Infections
 
-### Rickettsial Infections
-Doxycycline is preferred for:
+### Tick-Borne and Rickettsial Infections
 
-- Rocky Mountain spotted fever (RMSF)
-- Mediterranean spotted fever
-- Epidemic typhus
-- Murine typhus
-- Scrub typhus
+Doxycycline is first-line treatment for all common tick-borne diseases (@tbl-tickborne):
 
-Treatment duration: 5-15 days (shorter courses may be appropriate).
+| Disease | Pathogen | Duration |
+|------|------|------|
+| Lyme disease (early) | *B. burgdorferi* | 10–14 days |
+| Rocky Mountain spotted fever | *R. rickettsii* | 5–7 days |
+| Ehrlichiosis | *Ehrlichia* spp. | 5–14 days |
+| Anaplasmosis | *A. phagocytophilum* | 10–14 days |
+| Mediterranean spotted fever | *R. conorii* | 5–7 days |
+| Epidemic typhus | *R. prowazekii* | 7–15 days |
+| Murine typhus | *R. typhi* | 5–7 days |
+| Scrub typhus | *Orientia tsutsugamushi* | 5–7 days |
+
+: Doxycycline for Tick-Borne and Rickettsial Diseases {#tbl-tickborne}
+
+::: {.callout-warning}
+## Clinical Warning
+For suspected RMSF: Start doxycycline empirically — do not wait for serologic confirmation! Delayed treatment increases mortality. Doxycycline is safe even in children for this indication.
+:::
 
 ### Brucellosis
 6-week course of doxycycline 100 mg twice daily with either:
@@ -458,7 +500,15 @@ Treatment duration: 5-15 days (shorter courses may be appropriate).
 Doxycycline is active against *B. anthracis*, *Y. pestis*, *Francisella tularensis*, *C. burnetii*, and *Brucella* spp. - should be considered first-line in bioterrorism events.
 
 ### Acne Vulgaris
-Both doxycycline and minocycline can treat moderate-to-severe acne with *Cutibacterium acnes*-infected sebaceous glands. Typically prescribed for at least 2 months before switching.
+Both doxycycline and minocycline can treat moderate-to-severe acne with *Cutibacterium acnes*-infected sebaceous glands. Typically prescribed for at least 2 months before switching (@tbl-acne).
+
+| Agent | Dose | Notes |
+|-------|------|-------|
+| Doxycycline | 40–100 mg daily | Lower doses (40 mg) used for anti-inflammatory effect without promoting resistance |
+| Minocycline | 50–100 mg BID | Risk of pigmentation, lupus-like syndrome with prolonged use |
+| Sarecycline | 60–150 mg daily (weight-based) | Narrow spectrum, fewer GI effects; FDA-approved specifically for acne |
+
+: Comparison of Tetracyclines for Acne Vulgaris {#tbl-acne}
 
 ### Anti-inflammatory Uses
 Doxycycline plus methotrexate is superior to methotrexate alone for early seropositive rheumatoid arthritis. Minocycline is also effective for mild-to-moderate RA and Takayasu arteritis.
@@ -470,6 +520,8 @@ Doxycycline plus methotrexate is superior to methotrexate alone for early seropo
 Resistance to tetracyclines was first observed in 1953 in *Shigella dysenteriae*. Thirty-three distinct *tet* genes and three *otr* genes have been identified, primarily on mobile genetic elements.
 
 ## Resistance Mechanisms
+
+![Overview of the three major mechanisms of tetracycline resistance: active efflux, ribosomal protection, and enzymatic inactivation.](tetracyclines-images/resistance_MOA.png){#fig-resistance fig-align="center" width="650"}
 
 ### 1. Active Efflux Pumps (Primary Clinical Mechanism)
 
@@ -499,6 +551,20 @@ Resistance to tetracyclines was first observed in 1953 in *Shigella dysenteriae*
 
 - **Decreased permeability:** MarA overexpression in *E. coli* induces AcrAB efflux and downregulates OmpF porins
 - **Target mutation:** 16S rRNA mutations in *H. pylori* at positions 926-928
+
+### How Newer Tetracyclines Overcome Resistance
+
+| Agent | Overcomes Efflux | Overcomes Ribosomal Protection |
+|-------|------------------|--------------------------------|
+| Doxycycline | Partially | No |
+| Minocycline | Partially | No |
+| Tigecycline | Yes | Yes |
+| Eravacycline | Yes | Yes |
+| Omadacycline | Yes | Yes |
+
+: Resistance Mechanism Coverage by Tetracycline Agent {#tbl-resistance-coverage}
+
+Third-generation tetracyclines overcome common resistance through structural modifications (e.g., the C-9 glycylamido group in tigecycline) that provide steric hindrance against efflux pump recognition and enhanced ribosomal binding affinity. However, Tet(X) enzymatic inactivation can still affect even these newer agents [@Bergeron2016].
 
 ---
 
@@ -707,6 +773,127 @@ Mortality imbalance in CABP trials: 2.1% (omadacycline) vs 0.8% (moxifloxacin). 
 
 ---
 
+# Chloramphenicol {#sec-chloramphenicol}
+
+## Historical Context
+
+Chloramphenicol was discovered in 1947 from *Streptomyces venezuelae* and became the first antibiotic to be manufactured synthetically in 1949. It was initially widely used due to its broad spectrum, but fell from favor after recognition of its association with aplastic anemia [@Mandell2024].
+
+## Mechanism of Action
+
+Unlike tetracyclines, chloramphenicol binds to the **50S ribosomal subunit**, where it inhibits peptidyl transferase activity and prevents peptide bond formation. It is primarily **bacteriostatic**, although it can be bactericidal against certain organisms (e.g., *Haemophilus influenzae*, *Neisseria meningitidis*, *Streptococcus pneumoniae*).
+
+## Spectrum of Activity
+
+Chloramphenicol has broad-spectrum coverage including:
+
+- **Gram-positives:** Including many resistant organisms
+- **Gram-negatives:** *H. influenzae*, *N. meningitidis*, and many Enterobacterales
+- **Anaerobes:** Good activity
+- **Rickettsiae and spirochetes:** Active
+
+## Current Clinical Uses
+
+Chloramphenicol has largely been replaced by safer alternatives in developed countries. Remaining uses include:
+
+- Rickettsial infections when doxycycline is contraindicated (e.g., pregnancy)
+- Bacterial meningitis in resource-limited settings
+- Topical ophthalmic infections
+- Alternative for serious infections in patients with β-lactam allergy
+
+## Toxicity
+
+::: {.callout-caution}
+## Critical Toxicity: Bone Marrow Suppression
+Chloramphenicol causes two distinct types of bone marrow toxicity:
+
+| Type | Mechanism | Reversibility | Incidence |
+|------|-----------|---------------|-----------|
+| Dose-related suppression | Mitochondrial protein synthesis inhibition | Reversible on discontinuation | Common |
+| Aplastic anemia | Idiosyncratic (not dose-related) | Usually fatal | Rare (1 in 20,000–40,000) |
+:::
+
+### Gray Baby Syndrome
+
+Cardiovascular collapse in neonates due to immature hepatic glucuronidation, resulting in drug accumulation. Presents with abdominal distension, cyanosis, and circulatory shock.
+
+### Other Adverse Effects
+
+- Optic neuritis with prolonged use
+- Peripheral neuropathy
+- Rash and drug fever
+
+## Dosing
+
+The usual adult dose is 50 mg/kg/day divided into 6-hour doses (IV only in the US). No dose adjustment is required in renal failure, but the dose should be decreased or the drug avoided in hepatic failure.
+
+---
+
+# Practical Prescribing {#sec-prescribing}
+
+## Tetracycline Selection Algorithm
+
+The following flowchart provides a simplified approach to selecting the appropriate tetracycline for common clinical scenarios:
+
+```{dot}
+//| label: fig-algorithm
+//| fig-cap: "Tetracycline selection algorithm for clinical decision-making."
+//| fig-width: 10
+//| fig-height: 5.5
+digraph flowchart {
+    graph [bgcolor="transparent", rankdir=TB, splines=ortho, nodesep=0.6, ranksep=0.5]
+    node [fontname="Helvetica", fontsize=12, style=filled, fontcolor=white, penwidth=0]
+    edge [color="#666666", penwidth=1.5, arrowsize=0.8]
+
+    // Decision nodes
+    Q1 [label="Is the patient pregnant\nor <8 years old?", shape=box, style="filled,rounded", fillcolor="#1a6fb5"]
+    Q2 [label="Is renal function\nimpaired?", shape=box, style="filled,rounded", fillcolor="#1a6fb5"]
+    Q3 [label="Choose based\non indication", shape=box, style="filled,rounded", fillcolor="#8e44ad"]
+
+    // Answer nodes
+    A1 [label="Avoid tetracyclines\n(except life-threatening RMSF)", shape=box, style="filled,rounded", fillcolor="#c0392b"]
+    A2 [label="Use DOXYCYCLINE\n(no renal adjustment needed)", shape=box, style="filled,rounded", fillcolor="#27ae60"]
+
+    // Indication nodes
+    I1 [label="Atypicals / Tick-borne\n→ Doxycycline", shape=box, style="filled,rounded", fillcolor="#2c3e50"]
+    I2 [label="CNS infection\n→ Minocycline", shape=box, style="filled,rounded", fillcolor="#2c3e50"]
+    I3 [label="Acne\n→ Doxy, Mino, or Sarecycline", shape=box, style="filled,rounded", fillcolor="#2c3e50"]
+    I4 [label="MDR GN infections\n→ Tigecycline or Eravacycline", shape=box, style="filled,rounded", fillcolor="#2c3e50"]
+
+    // Edges
+    Q1 -> A1 [xlabel="YES  ", fontname="Helvetica", fontsize=10, fontcolor="#555555"]
+    Q1 -> Q2 [xlabel="  NO", fontname="Helvetica", fontsize=10, fontcolor="#555555"]
+    Q2 -> A2 [xlabel="YES  ", fontname="Helvetica", fontsize=10, fontcolor="#555555"]
+    Q2 -> Q3 [xlabel="  NO", fontname="Helvetica", fontsize=10, fontcolor="#555555"]
+    Q3 -> I1
+    Q3 -> I2
+    Q3 -> I3
+    Q3 -> I4
+
+    // Layout hints
+    {rank=same; A1; Q2}
+    {rank=same; A2; Q3}
+    {rank=same; I1; I2; I3; I4}
+}
+```
+
+## Key Counseling Points
+
+**For all tetracyclines:**
+
+1. Avoid dairy products and antacids (separate by 2–3 hours)
+2. Take with a full glass of water and remain upright for at least 30 minutes
+3. Use sun protection (especially with doxycycline)
+4. Complete the full course even if feeling better
+
+**Agent-specific counseling:**
+
+- **Minocycline:** Report dizziness or skin discoloration
+- **Doxycycline:** Can be taken with food if nauseated (minimal effect on absorption)
+- **Tetracycline:** Must be taken on an empty stomach (food reduces absorption by 50%)
+
+---
+
 # Tetracycline Formulations {#sec-formulations}
 
 | Generic Name | Brand Name | Preparation | Usual Adult Dose | Notes |
@@ -724,6 +911,55 @@ Mortality imbalance in CABP trials: 2.1% (omadacycline) vs 0.8% (moxifloxacin). 
 | Sarecycline | Seysara | Tablets: 60, 100, 150 mg | Weight-based (60-150 mg daily) | Acne vulgaris only |
 
 : Tetracycline Formulations Available in the United States {#tbl-formulations}
+
+---
+
+# Reference Tables {#sec-reference .appendix}
+
+## Comparing Newer Tetracyclines
+
+| Feature | Tigecycline | Eravacycline | Omadacycline |
+|---------|-------------|--------------|--------------|
+| Route | IV only | IV only | IV and PO |
+| Approved uses | cSSSI, cIAI, CABP | cIAI | CABP, ABSSSI |
+| *Pseudomonas* activity | No | No | No |
+| Black box warning | Yes (mortality) | No | No |
+| Dosing frequency | q12h | q12h | Daily |
+| Main limitation | Low serum levels | Limited indications | Cost |
+
+: Comparison of Newer Tetracycline Derivatives {#tbl-newer}
+
+## Spectrum of Activity Summary
+
+| Organism | TET | DOX | MIN | TIG | ERA | OMA |
+|----------|-----|-----|-----|-----|-----|-----|
+| MSSA | S | S | S | S | S | S |
+| MRSA | V | V | V | S | S | S |
+| VRE | R | R | R | S | S | S |
+| *S. pneumoniae* | V | V | V | S | S | S |
+| Atypicals | S | S | S | S | S | S |
+| Enterobacterales | V | V | V | S | S | V |
+| *P. aeruginosa* | R | R | R | R | R | R |
+| Anaerobes | V | V | V | S | S | V |
+
+: Spectrum of Activity Summary (S = susceptible, V = variable, R = resistant) {#tbl-spectrum}
+
+## Dosing Quick Reference
+
+| Indication | Agent | Dose | Duration |
+|------------|-------|------|----------|
+| CAP | Doxycycline | 100 mg BID | 5–7 days |
+| Chlamydia | Doxycycline | 100 mg BID | 7 days |
+| Lyme (early) | Doxycycline | 100 mg BID | 10–14 days |
+| RMSF | Doxycycline | 100 mg BID | 5–7 days |
+| MRSA SSTI | Doxycycline | 100 mg BID | 5–10 days |
+| Malaria prophylaxis | Doxycycline | 100 mg daily | Duration of exposure + 4 weeks |
+| cIAI | Tigecycline | 50 mg q12h^a^ | 5–14 days |
+| CABP | Omadacycline | 300 mg PO daily^b^ | 5–7 days |
+
+: Dosing Quick Reference for Common Indications {#tbl-dosing}
+
+^a^After 100 mg loading dose; ^b^After 300 mg × 2 loading
 
 ---
 
