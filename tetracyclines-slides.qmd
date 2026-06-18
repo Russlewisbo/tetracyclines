@@ -260,7 +260,7 @@ Doxycycline is the tetracycline of choice in renal failure!
 <br> <br>
 
 ::: notes
-This is a frequently tested point - doxycycline's unique elimination makes it safe in renal impairment [@Moffa2024].
+This is a frequently tested point - Doxycycline's unique elimination makes it safe in renal impairment [@Moffa2024].
 :::
 
 # Antimicrobial Spectrum {background-color="#b20e10"}
@@ -403,6 +403,8 @@ With rising macrolide resistance in S. pneumoniae, doxycycline has become an inc
 | Ehrlichiosis                 | *Ehrlichia* spp.     | 5-14 days  |
 | Anaplasmosis                 | *A. phagocytophilum* | 10-14 days |
 
+<br> <br>
+
 ::: callout-warning
 ## Clinical Warning
 
@@ -425,6 +427,9 @@ Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even 
 | Epididymitis | 100 mg BID × 10 days |
 | LGV | 100 mg BID × 21 days |
 
+
+<br> <br>
+
 ::: callout-note
 ## Emerging Use
 
@@ -435,7 +440,7 @@ Empiric treatment of suspected RMSF can be lifesaving. Doxycycline is safe even 
 Doxy-PEP is a major recent development - single dose within 72 hours of exposure significantly reduces gonorrhea, chlamydia, and syphilis[@CDC_STI2021; @DoxyPEP2022].
 :::
 
-## Skin & Soft Tissue Infections
+## Skin & soft tissue infections
 
 <br>
 
@@ -456,7 +461,7 @@ Doxy-PEP is a major recent development - single dose within 72 hours of exposure
 Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflammatory mechanisms without promoting resistance [@LamotheMRSA2009; @Garner2015].
 :::
 
-## Infections requiring combination therapy {.smaller}
+## Infections requiring combination therapy 
 
 <br>
 
@@ -478,7 +483,7 @@ Sub-antimicrobial doxycycline (40 mg) is effective for acne through anti-inflamm
 For brucellosis, the combination prevents relapse. Q fever endocarditis requires prolonged therapy [@LamotheMRSA2009; @Garner2015].
 :::
 
-## Other Important Indications
+## Other important indications
 
 <br>
 
@@ -499,25 +504,23 @@ For brucellosis, the combination prevents relapse. Q fever endocarditis requires
 
 - Demeclocycline 600-1200 mg/day (induces nephrogenic DI)
 
+
+
 ::: aside
-[@Dahl2004; @MalariaCDC2023; @Forrest1974]
+Demeclocycline's use for SIADH is a classic example of repurposing a side effect for therapeutic benefit [@Dahl2004; @MalariaCDC2023; @Forrest1974].
 :::
 
-::: notes
-Demeclocycline's use for SIADH is a classic example of repurposing a side effect for therapeutic benefit.
-:::
 
-------------------------------------------------------------------------
 
 # Adverse Effects {background-color="#b20e10"}
 
-## Gastrointestinal Effects
+## Gastrointestinal effects
 
 <br>
 
 **Most common adverse effects:**
 
-- Nausea, vomiting, diarrhea (dose-related)
+- Nausea, vomiting, diarrhea (dose-related- peak concentration drive for IV tigecycline, can be reduced with splitting dosing- for oral doxycycline. GI effects are related to local irritation)
 - Esophageal irritation and ulceration
 
 ::: callout-warning
@@ -534,12 +537,9 @@ Demeclocycline's use for SIADH is a classic example of repurposing a side effect
 - Use enteric-coated formulations
 - Consider dose reduction if tolerating lower doses
 
-::: aside
-[@SmithPhotosensitivity1990]
-:::
 
 ::: notes
-Esophageal ulceration can be severe. The upright position and water are critical counseling points.
+Esophageal ulceration can be severe. The upright position and water are critical counseling points [@SmithPhotosensitivity1990].
 :::
 
 ## Photosensitivity
@@ -564,15 +564,12 @@ Photosensitivity is dose-related and occurs in up to 20% of patients!
 - Wear protective clothing
 - Reaction occurs within minutes to hours of UV exposure
 
-::: aside
-[@SmithPhotosensitivity1990]
-:::
 
 ::: notes
-Photosensitivity is a phototoxic (not allergic) reaction. It can occur even through window glass with UVA.
+Photosensitivity is a phototoxic (not allergic) reaction. It can occur even through window glass with UVA [@SmithPhotosensitivity1990].
 :::
 
-## Dental & Bone Effects
+## Dental & bone effects
 
 <br>
 
@@ -594,15 +591,13 @@ Avoid tetracyclines in pregnancy and children under 8 years (except for life-thr
 - Reversible decrease in bone growth rate in fetus/young children
 - Does not affect already-formed adult bone
 
-::: aside
-[@Moffa2024]
-:::
+
 
 ::: notes
-The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may have lower staining risk than older tetracyclines.
+The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may have lower staining risk than older tetracyclines [@Moffa2024].
 :::
 
-## CNS Effects (Especially Minocycline)
+## CNS effects (Especially minocycline)
 
 <br>
 
@@ -619,12 +614,10 @@ The age 8 cutoff is when permanent teeth are largely formed. Doxycycline may hav
   - Headache, visual changes, papilledema
   - Risk increased with concurrent vitamin A, retinoids
 
-::: aside
-[@Garner2015; @Moffa2024]
-:::
+<br> <br>
 
-::: notes
-Minocycline's vestibular effects often limit its use. The combination with isotretinoin is particularly concerning for intracranial hypertension.
+::: aside
+Minocycline's vestibular effects often limit its use. The combination with isotretinoin is particularly concerning for intracranial hypertension [@Garner2015; @Moffa2024].
 :::
 
 ## Hepatotoxicity
@@ -644,15 +637,13 @@ Minocycline's vestibular effects often limit its use. The combination with isotr
 - Cases of hepatic failure reported
 - Contributes to FDA warnings
 
+<br> <br>
+
 ::: aside
-[@FDAWarningTige2010; @Moffa2024]
+High-dose IV tetracycline is no longer used, but this historical toxicity is why the class carries pregnancy warnings [@FDAWarningTige2010; @Moffa2024].
 :::
 
-::: notes
-High-dose IV tetracycline is no longer used, but this historical toxicity is why the class carries pregnancy warnings.
-:::
-
-## Minocycline-Specific Effects
+## Minocycline-specific effects
 
 <br>
 
@@ -666,25 +657,24 @@ High-dose IV tetracycline is no longer used, but this historical toxicity is why
 | Autoimmune hepatitis        | Rare      | Often with long-term use            |
 | Eosinophilic pneumonitis    | Rare      | Occurs early in treatment           |
 
+<br> <br>
+
 ::: callout-note
-## Note
+## aside
 
 Most minocycline-specific effects are associated with prolonged use (acne treatment)
 :::
 
+
 ::: aside
-[@Garner2015]
+The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus-like symptoms in long-term users [@Garner2015].
 :::
 
-::: notes
-The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus-like symptoms in long-term users.
-:::
 
-------------------------------------------------------------------------
 
-# Drug Interactions {background-color="#b20e10"}
+# Drug interactions {background-color="#b20e10"}
 
-## Major Drug Interactions
+## Major drug interactions
 
 <br>
 
@@ -697,12 +687,10 @@ The pigmentation can be disfiguring and may not fully resolve. Monitor for lupus
 | Methotrexate            | ↑ MTX levels            | Monitor toxicity    |
 | Digoxin                 | ↑ Digoxin levels (10%)  | Monitor levels      |
 
-::: aside
-[@Moffa2024]
-:::
 
-::: notes
-The warfarin interaction is clinically significant - always check INR when starting/stopping tetracyclines in anticoagulated patients.
+
+::: aside
+The warfarin interaction is clinically significant - always check INR when starting/stopping tetracyclines in anticoagulated patients [@Moffa2024].
 :::
 
 ## Practical Management
