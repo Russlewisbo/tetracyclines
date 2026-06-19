@@ -15,7 +15,7 @@ csl: nlm-citation-name.csl
 ---
 
 [HTML lecture slides](https://russlewisbo.github.io/tetracyclines/tetracyclines-slides.html#/title-slide) <br>
-[Link to recorded lecture]() <br>
+[Link to recorded lecture](https://drive.google.com/file/d/14KrnV4ILGpuQ9ESlDJ0ajtH2JtAwFdcd/view?t=10.133) <br>
 
 
 # Short View Summary {#sec-summary}
@@ -266,6 +266,15 @@ Minocycline uniquely penetrates saliva, tears, and sebum (explaining its efficac
 ::: {.callout-important}
 ## Volume of Distribution
 Tetracyclines have high volumes of distribution, resulting in excellent tissue levels but relatively low serum concentrations. This makes them poor choices for primary treatment of bloodstream infections.
+
+| Drug | V~D~ (L/kg) |
+|------|-------------|
+| Tetracycline | ~1.5 |
+| Doxycycline | ~0.7 |
+| Minocycline | 0.14-0.7 |
+| Tigecycline | 7-10 |
+
+Tigecycline's exceptionally large V~D~ indicates extensive tissue distribution, consistent with its glycylcycline structure and enhanced lipophilicity.
 :::
 
 ## Drug Elimination

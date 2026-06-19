@@ -204,12 +204,12 @@ One of the most important interactions to communicate. Many patients don't reali
 
 <center>**Half-life comparison:**</center>
 
-| Drug         | Half-life   | V~D~ (L/kg) | Protein Binding | Lipophilicity |
-|--------------|-------------|-------------|-----------------|---------------|
-| Tetracycline | 7 hours     | \~1.5       | 24-65%          | Baseline      |
-| Doxycycline  | 12-16 hours | \~0.7       | 82-93%          | 5× baseline   |
-| Minocycline  | 16-21 hours | 0.14-0.7    | 70-80%          | 10× baseline  |
-| Tigecycline  | 37-67 hours | 7-10        | 71-89%          | Very high     |
+| Drug         | Half-life   | Protein Binding | Lipophilicity |
+|--------------|-------------|-----------------|---------------|
+| Tetracycline | 7 hours     | 24-65%          | Baseline      |
+| Doxycycline  | 12-16 hours | 82-93%          | 5× baseline   |
+| Minocycline  | 16-21 hours | 70-80%          | 10× baseline  |
+| Tigecycline  | 37-67 hours | 71-89%          | Very high     |
 
 <br> <br>
 
@@ -226,7 +226,7 @@ Higher lipophilicity = better tissue penetration. Minocycline's high lipophilici
 - Bronchial secretions, pleural fluid
 - Sinus, middle ear secretions
 - Bone, prostate, testes
-- Urine concentrations 10× serum
+- Partically excreted in active form in urine
 
 **Minocycline uniquely penetrates:**
 
