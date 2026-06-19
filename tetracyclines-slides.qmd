@@ -150,7 +150,6 @@ The cation complex formation is essential for crossing gram-negative outer membr
 
 
 Tetracyclines **reversibly** bind to the **30S ribosomal subunit** → **bacteriostatic**...*although clinical importance of bacteriostatic vs. cidal is debated*. Free drug AUC/AUC is the PK/PD driver of activity- Killing (or growth suppression) depends on overall exposure, not peak concentration [@Chopra2001].
-:::
 
 # Pharmacokinetics {background-color="#b20e10"}
 
@@ -750,15 +749,13 @@ Complex medication schedules reduce compliance. Sometimes switching to azithromy
 - Release tetracycline from 30S binding site
 - Dislodge drug without damaging ribosome
 
-::: aside
-[@Chopra2001; @Roberts2005]
-:::
+
 
 ::: notes
-Efflux is the most common mechanism. Ribosomal protection is especially important in gram-positive organisms.
+Efflux is the most common mechanism. Ribosomal protection is especially important in gram-positive organisms [@Chopra2001; @Roberts2005].
 :::
 
-## Resistance Mechanisms (continued)
+## Resistance mechanisms (continued)
 
 <br>
 
@@ -775,15 +772,13 @@ Efflux is the most common mechanism. Ribosomal protection is especially importan
 - Often carried on mobile genetic elements
 - Multiple mechanisms may coexist
 
-::: aside
-[@Thaker2010]
-:::
+
 
 ::: notes
-Tet(X) enzymes are concerning because they can inactivate even the newer glycylcyclines. Surveillance is ongoing.
+Tet(X) enzymes are concerning because they can inactivate even the newer glycylcyclines. Surveillance is ongoing [@Thaker2010].
 :::
 
-## How Newer Tetracyclines Overcome Resistance
+## How newer tetracyclines overcome resistance
 
 <br>
 
@@ -804,12 +799,10 @@ Tet(X) enzymes are concerning because they can inactivate even the newer glycylc
 - Enhanced ribosomal binding affinity
 - Steric hindrance prevents efflux pump recognition
 
-::: aside
-[@Bergeron2016]
-:::
 
-::: notes
-The glycylcycline structure was specifically designed to evade common resistance mechanisms. However, Tet(X) can still inactivate some of these.
+
+::: aside
+The glycylcycline structure was specifically designed to evade common resistance mechanisms. However, Tet(X) can still inactivate some of these [@Bergeron2016].
 :::
 
 
@@ -838,15 +831,13 @@ The glycylcycline structure was specifically designed to evade common resistance
 Increased mortality compared to other antibiotics in meta-analysis. Reserve for situations where alternatives are not suitable.
 :::
 
+
+
 ::: aside
-[@Ellis-GrosseTige2005; @FDABoxWarningTige2013]
+The mortality signal led to FDA warnings. Tigecycline should not be used for VAP or bacteremia due to low serum levels. Mortality difference was not seen with the higher dose [@BabinchakTige2005; @FDAWarningTige2010].
 :::
 
-::: notes
-The mortality signal led to FDA warnings. Tigecycline should not be used for VAP or bacteremia due to low serum levels. Mortality difference was not seen with the higher dose
-:::
-
-## Tigecycline: Clinical Considerations {.smaller}
+## Tigecycline: Clinical considerations 
 
 <br>
 
@@ -869,15 +860,13 @@ The mortality signal led to FDA warnings. Tigecycline should not be used for VAP
 - MDR skin infections when oral options inadequate
 - *Not* for VAP, bloodstream infections, or diabetic foot infections
 
-::: aside
-[@BabinchakTige2005; @FDAWarningTige2010]
-:::
+
 
 ::: notes
-The large volume of distribution means excellent tissue levels but inadequate serum concentrations for bacteremia.
+The large volume of distribution means excellent tissue levels but inadequate serum concentrations for bacteremia [@BabinchakTige2005; @FDAWarningTige2010].
 :::
 
-## Eravacycline (Fluorocycline) {.smaller}
+## Eravacycline (fluorocycline) 
 
 <br>
 
@@ -897,15 +886,12 @@ The large volume of distribution means excellent tissue levels but inadequate se
 - Similar spectrum but better MICs
 - Better tolerability (less nausea)
 
-::: aside
-[@Solomkin2014; @MolloyErava2018]
-:::
 
 ::: notes
-Eravacycline was developed to improve on tigecycline's limitations. It's currently limited to cIAI.
+Eravacycline was developed to improve on tigecycline's limitations. It's currently limited to cIAI [@Solomkin2014; @MolloyErava2018].
 :::
 
-## Omadacycline (Aminomethylcycline) {.smaller}
+## Omadacycline (aminomethylcycline)
 
 <br>
 
@@ -921,20 +907,19 @@ Eravacycline was developed to improve on tigecycline's limitations. It's current
 - Acute bacterial skin and skin structure infections
 
 ::: callout-tip
-## Clinical Pearl
+
+## Clinical pearl
 
 Omadacycline is the only newer tetracycline with oral availability - allows IV-to-oral switch!
 :::
 
+
+
 ::: aside
-[@OKeefeCABP2019]
+The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 300 mg daily [@OKeefeCABP2019].
 :::
 
-::: notes
-The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 300 mg daily.
-:::
-
-## Omadacycline: Clinical Use
+## Omadacycline: Clinical use
 
 <br>
 
@@ -952,12 +937,10 @@ The oral formulation is a major advantage. Loading dose of 450 mg day 1, then 30
 - Better tolerability than tigecycline
 - No food effect on absorption (take on empty stomach)
 
-::: aside
-[@Stets2019]
-:::
 
-::: notes
-The ability to complete therapy orally makes omadacycline practical for outpatient treatment or early discharge.
+
+::: aside
+The ability to complete therapy orally makes omadacycline practical for outpatient treatment or early discharge [@Stets2019].
 :::
 
 ## Sarecycline (Narrow-Spectrum)
@@ -976,15 +959,13 @@ The ability to complete therapy orally makes omadacycline practical for outpatie
 - Lower activity against typical respiratory pathogens
 - Designed to target *Cutibacterium acnes*
 
+
+
 ::: aside
-[@Moffa2024]
+Sarecycline represents a deliberate narrow-spectrum approach to minimize collateral damage and resistance selection [@Moffa2024].
 :::
 
-::: notes
-Sarecycline represents a deliberate narrow-spectrum approach to minimize collateral damage and resistance selection.
-:::
-
-## Comparing Newer Tetracyclines
+## Comparing newer tetracyclines
 
 <br>
 
@@ -997,19 +978,17 @@ Sarecycline represents a deliberate narrow-spectrum approach to minimize collate
 | Dosing frequency  | q12h              | q12h                | Daily        |
 | Main limitation   | Low serum levels  | Limited indications | Cost         |
 
-::: aside
-[@Moffa2024]
-:::
+
 
 ::: notes
-Selection depends on indication, need for oral therapy, and patient-specific factors.
+Selection depends on indication, need for oral therapy, and patient-specific factors [@Moffa2024].
 :::
 
-------------------------------------------------------------------------
+
 
 # Chloramphenicol {background-color="#b20e10"}
 
-## Historical Context & Mechanism
+## Historical context & mechanism
 
 <br>
 
@@ -1026,12 +1005,9 @@ Selection depends on indication, need for oral therapy, and patient-specific fac
 - Prevents peptide bond formation
 - **Bacteriostatic** (bactericidal against some organisms)
 
-::: aside
-[@Mandell2024]
-:::
 
 ::: notes
-Chloramphenicol's toxicity limited its use in developed countries, but it remains important in resource-limited settings.
+Chloramphenicol's toxicity limited its use in developed countries, but it remains important in resource-limited settings [@Mandell2024].
 :::
 
 ## Chloramphenicol: Spectrum & Uses
@@ -1052,12 +1028,9 @@ Chloramphenicol's toxicity limited its use in developed countries, but it remain
 - Ophthalmic infections (topical)
 - Alternative for serious infections in beta-lactam allergy
 
-::: aside
-[@Mandell2024]
-:::
 
 ::: notes
-Oral chloramphenicol is still available for travelers to areas with limited alternatives.
+Oral chloramphenicol is still available for travelers to areas with limited alternatives [@Mandell2024].
 :::
 
 ## Chloramphenicol: Toxicity {.smaller}
@@ -1084,46 +1057,66 @@ Oral chloramphenicol is still available for travelers to areas with limited alte
   - Abdominal distension, cyanosis, shock
 - Optic neuritis (prolonged use)
 
-::: aside
-[@Mandell2024]
-:::
 
 ::: notes
-The risk of aplastic anemia, though rare, is the main reason chloramphenicol fell from widespread use in developed countries.
+The risk of aplastic anemia, though rare, is the main reason chloramphenicol fell from widespread use in developed countries [@Mandell2024].
 :::
 
-------------------------------------------------------------------------
+
 
 # Practical Prescribing {background-color="#b20e10"}
 
-## Tetracycline Selection Algorithm {.smaller}
+## Tetracycline selection algorithm {.smaller}
 
 <br>
 
-```         
-Is the patient pregnant or <8 years old?
-    │
-    ├─► Yes: Avoid tetracyclines (except life-threatening RMSF)
-    │
-    └─► No: Continue ↓
-         │
-         Is renal function impaired?
-              │
-              ├─► Yes: Use DOXYCYCLINE (no adjustment needed)
-              │
-              └─► No: Choose based on indication
-                       │
-                       ├─► Atypicals/Tick-borne: Doxycycline
-                       ├─► CNS infection: Minocycline
-                       ├─► Acne: Doxycycline, Minocycline, or Sarecycline
-                       └─► MDR GN/GN infections: Tigecycline or Eravacycline
+```{dot}
+//| fig-width: 10
+digraph decision_tree {
+    rankdir=TB
+    node [shape=diamond, style=filled, fillcolor="#E8F4FD", fontname="Helvetica"]
+    edge [fontname="Helvetica", fontsize=10]
+
+    pregnant [label="Is the patient\npregnant or <8 years old?"]
+    renal [label="Is renal function\nimpaired?"]
+
+    node [shape=box, style="filled,rounded", fillcolor="#FDECEA"]
+    avoid [label="Avoid tetracyclines\n(except life-threatening RMSF)"]
+
+    node [shape=box, style="filled,rounded", fillcolor="#E8F5E9"]
+    doxy_renal [label="Use DOXYCYCLINE\n(no renal adjustment needed)"]
+
+    node [shape=box, style="filled,rounded", fillcolor="#FFF8E1"]
+    atypical [label="Atypicals / Tick-borne:\nDoxycycline"]
+    cns [label="CNS infection:\nMinocycline"]
+    acne [label="Acne:\nDoxycycline, Minocycline,\nor Sarecycline"]
+    mdr [label="MDR GN / GN infections:\nTigecycline or Eravacycline"]
+
+    pregnant -> avoid [label="Yes"]
+    pregnant -> renal [label="No"]
+    renal -> doxy_renal [label="Yes"]
+    renal -> atypical [label="No"]
+    renal -> cns [style=invis]
+    renal -> acne [style=invis]
+    renal -> mdr [style=invis]
+
+    node [shape=plaintext, style="", fillcolor=none]
+    choose [label="Choose based on indication"]
+    renal -> choose [label="No"]
+    choose -> atypical
+    choose -> cns
+    choose -> acne
+    choose -> mdr
+
+    {rank=same; atypical; cns; acne; mdr}
+}
 ```
 
-::: notes
+::: aside
 This simple algorithm covers most clinical scenarios. Doxycycline is the most versatile choice.RMSF: Rocky mountain spotted fever
 :::
 
-## Available Formulations
+## Available formulations
 
 <br>
 
@@ -1140,7 +1133,7 @@ This simple algorithm covers most clinical scenarios. Doxycycline is the most ve
 Omadacycline's dual formulation makes it unique among the newer agents.
 :::
 
-## Key Counseling Points
+## Key counseling points
 
 <br>
 
@@ -1157,11 +1150,11 @@ Omadacycline's dual formulation makes it unique among the newer agents.
 - Doxycycline: Can take with food if nauseated
 - Tetracycline: Must take on empty stomach
 
-::: notes
+<br> <br>
+
+::: aside
 Effective counseling improves adherence and reduces adverse effects.
 :::
-
-------------------------------------------------------------------------
 
 # Summary {background-color="#b20e10"}
 
@@ -1174,9 +1167,7 @@ Effective counseling improves adherence and reduces adverse effects.
 3.  **First-line for tick-borne diseases:** Start empirically for suspected Rocky Mountain Spotted Fever - don't wait for confirmation
 4.  **Important for STIs:** Chlamydia, syphilis (alternative), growing role in Doxy-PEP
 
-::: notes
-These are the most critical points for clinical practice.
-:::
+
 
 ## Key Takeaways (Part 2)
 
@@ -1187,11 +1178,9 @@ These are the most critical points for clinical practice.
 7.  **Newer agents expand options:** Tigecycline, eravacycline, omadacycline overcome resistance
 8.  **Tigecycline limitations:** Not for bacteremia, black box mortality warning
 
-::: notes
-The newer agents are valuable but have specific niches and limitations.
-:::
 
-## Clinical Decision Making
+
+## Clinical decision making
 
 <br>
 
@@ -1201,34 +1190,8 @@ The newer agents are valuable but have specific niches and limitations.
 Doxycycline remains the most versatile tetracycline for clinical practice, with excellent oral bioavailability, broad spectrum, and unique indications for atypicals and tick-borne diseases. Reserve newer agents for MDR infections or when oral therapy with omadacycline is preferred.
 :::
 
-::: notes
-End with this practical summary for clinical application.
-:::
 
-------------------------------------------------------------------------
 
-# Questions? {background-color="#b20e10"}
-
-## Further Reading & Resources {.smaller}
-
-<br>
-
-**Key References:**
-
-- Chopra I, Roberts MC. Microbiol Mol Biol Rev 2001;65:232-260
-- CDC STI Treatment Guidelines 2021
-- IDSA Lyme Disease Guidelines 2020
-- ATS/IDSA CAP Guidelines 2019
-
-**Clinical Pearls to Remember:**
-
-1.  Doxycycline = workhorse tetracycline
-2.  Empiric RMSF treatment saves lives
-3.  Separate from cations by 3 hours
-4.  Safe in renal failure (doxycycline)
-5.  Tigecycline: Not for bacteremia
-
-------------------------------------------------------------------------
 
 # Appendix: Reference Tables {background-color="#b20e10"}
 
@@ -1247,7 +1210,8 @@ End with this practical summary for clinical application.
 | *P. aeruginosa*  | R   | R   | R   | R   | R   | R   |
 | Anaerobes        | V   | V   | V   | S   | S   | V   |
 
-S = susceptible, V = variable, R = resistant
+<br>
+<center> S = susceptible, V = variable, R = resistant </center> 
 
 ## MIC Reference Values
 
@@ -1261,7 +1225,9 @@ S = susceptible, V = variable, R = resistant
 | *K. pneumoniae*        | ≤4          | ≤1          |
 | *Bacteroides fragilis* | ≤4          | ≤4          |
 
+<center>
 *Values in μg/mL; breakpoints per CLSI*
+</center> 
 
 ## Dosing Quick Reference
 
@@ -1278,6 +1244,8 @@ S = susceptible, V = variable, R = resistant
 | cIAI | Tigecycline | 50 mg q12h\* | 5-14 days |
 | CABP | Omadacycline | 300 mg PO daily\*\* | 5-7 days |
 
+<center>
 \*After 100 mg loading dose; \*\*After 300 mg × 2 loading
+</center>
 
-
+## References
