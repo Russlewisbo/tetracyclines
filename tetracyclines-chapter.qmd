@@ -14,7 +14,7 @@ bibliography: tetracyclines-references.bib
 csl: nlm-citation-name.csl
 ---
 
-[HTML lecture slides]() <br>
+[HTML lecture slides](https://russlewisbo.github.io/tetracyclines/tetracyclines-slides.html#/title-slide) <br>
 [Link to recorded lecture]() <br>
 
 
